@@ -24,6 +24,7 @@ app.use(
       "https://omdl-admin-staging.vercel.app",
       "https://omdl-patient-staging.vercel.app",
       "https://www.olympmedlab.com",
+      "https://clinic-appointment-management-syste.vercel.app"
     ],
     credentials: true,
   }),
